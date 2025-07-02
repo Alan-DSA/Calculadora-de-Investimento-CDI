@@ -34,6 +34,7 @@ API de séries temporais do Banco Central do Brasil
 
 Clone o repositório:
 git clone https://github.com/Alan-DSA/calculadora-de-investimento-cdi.git
+
 cd calculadora-de-investimento-cdi
 
 Crie e ative um ambiente virtual (opcional):
@@ -69,13 +70,5 @@ relatório gerado no pdf:
 ![image](https://github.com/user-attachments/assets/8638ef3d-3e4b-44ba-8f08-e6d5ae096729)
 
 
-
-📁 Estrutura do Projeto
-calculadora-investimento-cdi/
-│
-├── calculadora_CDI.py       # Código principal com interface e lógica de cálculo
-├── README.md               # Documentação do projeto
-├── requirements.txt        # Lista de dependências (veja abaixo)
-└── Relatorio_CDI_*.pdf     # Arquivos gerados com os relatórios
 
 
